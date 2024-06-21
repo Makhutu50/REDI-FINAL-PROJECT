@@ -1,4 +1,4 @@
-## Mapping Global world fires 
+## Mapping Global Fires 
 
   Visualize global fires 
 
